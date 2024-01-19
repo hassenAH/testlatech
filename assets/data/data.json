@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "title": "Foods",
+      "Products": [
+        {
+          "name": "Veggie tomato mix",
+          "price": 10.900,
+          "photo" : "https://i.postimg.cc/g2PWgQGG/veggie.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        },
+        {
+          "name": "Spicy fish sauce",
+          "price": 10.900,
+          "photo" : "https://i.postimg.cc/0NBXBK77/spicy-food.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        }
+      ]
+    },
+    {
+      "title": "Drinks",
+      "Products": [
+        {
+          "name": "Orange juice",
+          "price": 3.200,
+          "photo" : "https://i.postimg.cc/Twm8jJBK/orange.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        },
+        {
+          "name": "Soda",
+          "price": 3.000,
+          "photo" : "https://i.postimg.cc/K8dJ7hb5/soda.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        }
+      ]
+    },
+    {
+      "title": "Snacks",
+      "Products": [
+        {
+          "name": "Cheese cake",
+          "price": 5.000,
+          "photo" : "https://i.postimg.cc/9FS3Dfx8/cheese.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        },
+        {
+          "name": "Greek yogurt with berries",
+          "price": 3.000,
+          "photo" : "https://i.postimg.cc/fbYkHpts/greek.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        }
+      ]
+    },
+    {
+      "title": "Pizzas",
+      "Products": [
+        {
+          "name": "Pepperoni pizza",
+          "price": 15.300,
+          "photo" : "https://i.postimg.cc/xdLhcy7g/pepperoni.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        },
+        {
+          "name": "Margherita pizza",
+          "price": 12.200,
+          "photo": "https://i.postimg.cc/mD2jBYGP/Margarita.png",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis lorem non ipsum pulvinar tristique eget at diam. Ut dictum pulvinar urna ac mollis. Duis commodo risus id lorem maximus, et tempor purus sodales. Donec sem turpis, mollis id mauris a, suscipit ultricies lacus. Ut sollicitudin condimentum metus, eget maximus ante accumsan nec."
+        }
+      ]
+    }
+  ]
+}
